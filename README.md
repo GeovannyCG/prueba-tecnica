@@ -27,3 +27,5 @@ Pasos para la instalacion de la carpeta examen_backend_HIOJAN_GEOVANNY_CARRASCO_
 Ahora cuado te dirijes a la ruta donde se esta ejecutando la prueba (Ejem. http://localhost/examen_frontend_HIOJAN_GEOVANNY_CARRASCO_GARCIA/Dashboard/) debera de poder visualizarse los diferentes registros mostrandose por columnas `#	Nombre	Email	Direccion	Telefono	Fecha de nacimiento	Edad	Acciones` ademas de botones de accion para editar o eliminar el registro.
 
 Hasta aqui la documentacion de esta prueba, un saludo 😁
+
+#IMPORTANTE!: Es posible con la configuracion de tu MySQL sea diferente a la que viene por defecto en el archivo de server.js en la API REST. Favor de verificar y configurarlas segun lo requerido quedamos a sus ordenes para escuchar cualqier pregunta acerca de este proyecto. Peace ✌🏼
