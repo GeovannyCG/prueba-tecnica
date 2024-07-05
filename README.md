@@ -25,7 +25,6 @@ Pasos para la instalacion de la carpeta examen_backend_HIOJAN_GEOVANNY_CARRASCO_
 5. Una vez iniciado el servidor de la API REST nos indicara en que puerto se esta ejecutndo (ejemp. el puerto 9000), para probar si la API esta funcionando correctamente ejecuta la siguiente ruta en tu navegador "http://localhost:9000/" si te muestra en pantalla un `Hello World!` significa que la API esta lista para ser consumida por el frontend.
 
 Ahora cuado te dirijes a la ruta donde se esta ejecutando la prueba (Ejem. http://localhost/examen_frontend_HIOJAN_GEOVANNY_CARRASCO_GARCIA/Dashboard/) debera de poder visualizarse los diferentes registros mostrandose por columnas `#	Nombre	Email	Direccion	Telefono	Fecha de nacimiento	Edad	Acciones` ademas de botones de accion para editar o eliminar el registro.
-
 Hasta aqui la documentacion de esta prueba, un saludo 😁
 
-#IMPORTANTE!: Es posible con la configuracion de tu MySQL sea diferente a la que viene por defecto en el archivo de server.js en la API REST. Favor de verificar y configurarlas segun lo requerido quedamos a sus ordenes para escuchar cualqier pregunta acerca de este proyecto. Peace ✌🏼
+#IMPORTANTE!: Es posible con la configuracion de tu MySQL sea diferente a la que viene por defecto en el archivo de server.js en la API REST. Favor de verificar y configurarlas segun tu configuración. quedamos a sus ordenes para escuchar cualquier pregunta acerca de este proyecto. Peace ✌🏼
